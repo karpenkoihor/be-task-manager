@@ -6,7 +6,7 @@
   "private": true,
   "license": "UNLICENSED",
   "engines": {
-    "node": "20.x"
+    "node": "23.8.0"
   },
   "scripts": {
     "build": "nest build",
